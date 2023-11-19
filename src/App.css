@@ -1,0 +1,74 @@
+/* App.css
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+input {
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 5fr 1fr;
+  margin-top: 50px;
+  text-align: center;
+}
+
+h2 {
+  text-align: start;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  text-align: start;
+  margin-left: 10px;
+  margin-bottom: 15px;
+}
+
+button a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  width: 200px;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+.Enlaces{
+  margin: 10%;
+}
+
+.recent-item:hover{
+  cursor: pointer;
+} */
